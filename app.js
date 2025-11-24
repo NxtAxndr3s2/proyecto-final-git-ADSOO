@@ -1,5 +1,6 @@
 /*
-  Rama: feature/dashboard
+  Rama: feature/footer
   Fecha:
-  Descripción: Código del dashboard.
+  Descripción: Código del footer.
 */
+
