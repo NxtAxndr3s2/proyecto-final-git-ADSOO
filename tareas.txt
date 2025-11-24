@@ -1,0 +1,18 @@
+
+
+**Tareas** 
+
+
+- Pendiente: Terminar módulo final
+- Pendiente: Revisar código
+- Pendiente: Actualizar documentación
+
+**Realizadas**
+
+- Realizada: Resolver conflicto del merge 
+- Realizada: Actualizar .gitignore
+
+**Bloqueadas**
+
+- Bloqueada: implmentar login 
+- Bloqueada: Integracion con API externa
