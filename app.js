@@ -1,5 +1,5 @@
 /*
-  Rama: feature/login
+  Rama: feature/dashboard
   Fecha:
-  Descripción: Aquí irá el código de la funcionalidad.
+  Descripción: Código del dashboard.
 */
