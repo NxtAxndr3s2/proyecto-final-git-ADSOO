@@ -63,3 +63,23 @@ Enviar la rama al remoto con git push.
 Crear un Pull Request (PR) para revisión.
 
 Revisar, aprobar y fusionar los cambios.
+
+
+**Problemas del dia** 
+
+Para ser honesto tuve muchos problemas con el punto 5 y 6 que fueron los que me forzaron
+
+a hacer todo el desgraciado trabajo de nuevo pero pues alfinal los pude terminar , tambien me costo
+
+mucho aprender edl commit y el git add pero pues alfinal ya me salia normal , pasaron tambien
+ 
+problemas con los merges en la pagina de github pero pues alfinal se lograron sacar adelante
+
+**Que aprendi hoy**
+
+Hoy aprendí cómo funciona el flujo completo de Git de forma práctica: crear ramas, resol
+ver conflictos, eliminar archivos .lock, hacer rebases, merges y manejar errores comunes. También reforcé cómo trabajar con GitHub usando Pull Requests, ramas feature y buenas prácticas para mantener el proyecto limpio y organizado.
+
+**Conclusion del taller**
+
+Este taller me ayudó a entender Git de verdad, no solo los comandos, sino cómo se comporta en situaciones reales. Practiqué ramas, merges, rebases, resolución de conflictos y uso profesional de GitHub. Ahora tengo más seguridad trabajando con repositorios y entiendo cómo manejar errores sin perderme. Fue una experiencia muy útil y completa.
